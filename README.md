@@ -1,2 +1,2 @@
 # advanced-git-001
-Hello Class
+Hello Class, again
